@@ -52,15 +52,7 @@ Tasks performed:
   - `age_group`
   - `purchase_frequency_days`
 - Removed redundant columns
-- Connected Python with PostgreSQL, MySQL, and SQL Server
-
-### Key Python Libraries
-```python
-pandas
-numpy
-sqlalchemy
-psycopg2
-```
+- Connected Python with MySQL
 
 ---
 
