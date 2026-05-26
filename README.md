@@ -33,10 +33,9 @@ The goal of this analysis is to answer:
 
 - Python
 - Pandas
-- NumPy
-- PostgreSQL / SQL
+- SQL
+- MySQL
 - Power BI
-- SQLAlchemy
 - Jupyter Notebook
 
 ---
@@ -117,7 +116,7 @@ An interactive dashboard was created to visualize:
 
 # Project Structure
 
-```bash
+
 customer-behavior-analysis/
 │
 ├── dataset/
@@ -127,9 +126,9 @@ customer-behavior-analysis/
 │   └── customer_behavior_analysis.ipynb
 │
 ├── sql/
-│   ├── schema.sql
-│   ├── business_queries.sql
-│   └── insights_queries.sql
+│   ├── business_problem.txt
+│   ├── customer_behavior_sql_queries.sql
+│  
 │
 ├── dashboard/
 │   └── customer_behavior_dashboard.pbix
@@ -138,15 +137,8 @@ customer-behavior-analysis/
 │   ├── project_report.pdf
 │   └── presentation.pptx
 │
-├── images/
-│   ├── dashboard_preview.png
-│   ├── customer_segments.png
-│   └── revenue_analysis.png
-│
 ├── README.md
-├── requirements.txt
-└── .gitignore
-```
+
 
 ---
 
@@ -178,25 +170,6 @@ customer-behavior-analysis/
 - Advanced customer segmentation using clustering
 - Sales forecasting models
 - Real-time dashboard integration
-
----
-
-# How to Run the Project
-
-## Clone Repository
-```bash
-git clone https://github.com/yourusername/customer-behavior-analysis.git
-```
-
-## Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-## Run Jupyter Notebook
-```bash
-jupyter notebook
-```
 
 ---
 
