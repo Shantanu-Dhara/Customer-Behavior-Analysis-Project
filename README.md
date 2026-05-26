@@ -109,6 +109,7 @@ An interactive dashboard was created to visualize:
 # Project Structure
 
 
+```
 customer-behavior-analysis/
 │
 ├── dataset/
@@ -130,7 +131,7 @@ customer-behavior-analysis/
 │   └── presentation.pptx
 │
 ├── README.md
-
+```
 
 ---
 
