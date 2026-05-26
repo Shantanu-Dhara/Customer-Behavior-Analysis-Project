@@ -156,16 +156,6 @@ customer-behavior-analysis/
 
 ---
 
-# Future Improvements
-
-- Customer churn prediction using Machine Learning
-- Recommendation system implementation
-- Advanced customer segmentation using clustering
-- Sales forecasting models
-- Real-time dashboard integration
-
----
-
 # Dataset Information
 
 Dataset contains:
